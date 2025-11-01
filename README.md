@@ -39,4 +39,4 @@ A new client identifier request should meet the following criteria:
 
 ## Existing Client Requirements
 
-All existing Solana validator clients are **expected** to monitor this repository and implement any changes to `client-ids.csv` as soon as possible in their client codebase.  Net new clients are encouraged to make a pull reqeust to the existing validator clients and link to the merged pull request from this repository.
+All existing Solana validator clients are **expected** to monitor this repository and implement any changes to `client-ids.csv` as soon as possible in their client codebase.  New clients are encouraged to make a pull reqeust to the existing validator clients and link to the merged pull request from this repository.
